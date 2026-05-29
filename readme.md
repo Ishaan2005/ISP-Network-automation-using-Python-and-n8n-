@@ -1,16 +1,17 @@
 <div align="center">
 
-# ISP Network Automation using Python and n8n 
+# ISP Network Automation using Python and n8n
 
 <br>
-![License](https://img.shields.io/badge/license-MIT-blue.svg) 
-![Python](https://img.shields.io/badge/python-3.x-blue) 
-![Docker](https://img.shields.io/badge/docker-enabled-2496ED) 
-![n8n](https://img.shields.io/badge/n8n-workflows-orange) 
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-lightgrey) 
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Docker](https://img.shields.io/badge/docker-enabled-2496ED)
+![n8n](https://img.shields.io/badge/n8n-workflows-orange)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success)
 
- </div>
+</div>
 
 A hybrid network automation project designed for ISP and enterprise environments using **Python**, **n8n**, and network automation workflows.
 
