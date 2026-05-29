@@ -30,7 +30,7 @@ This repository focuses on automating repetitive network operations such as:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Python 3
 - n8n
@@ -61,7 +61,7 @@ ISP-Network-automation-using-Python-and-n8n/
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Clone the Repository
 
