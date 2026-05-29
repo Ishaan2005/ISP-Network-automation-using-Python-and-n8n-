@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+jinja2
+httpx
+python-multipart
+aiofiles
+matplotlib
+pillow
+sqlalchemy
+
