@@ -16,7 +16,7 @@ This repository focuses on automating repetitive network operations such as:
 
 ---
 
-# 🚀 Features
+# Features
 
 - Python-based network automation scripts
 - n8n workflow orchestration
@@ -45,7 +45,7 @@ This repository focuses on automating repetitive network operations such as:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 ISP-Network-automation-using-Python-and-n8n/
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🐳 Docker Setup
+# Docker Setup
 
 Run the project using Docker:
 
@@ -109,7 +109,7 @@ docker compose up -d
 
 ---
 
-# 🔄 n8n Integration
+# n8n Integration
 
 This project uses **n8n** for workflow orchestration and automation pipelines.
 
@@ -131,7 +131,7 @@ To import workflows:
 
 ---
 
-# 📡 Example Use Cases
+# Example Use Cases
 
 ## Device Configuration Backup
 
@@ -154,7 +154,7 @@ Automatically:
 
 ---
 
-# 🔐 Security Notes
+# Security Notes
 
 - Never commit credentials
 - Use `.env` files for secrets
@@ -164,7 +164,7 @@ Automatically:
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 - Grafana integration
 - Prometheus monitoring
@@ -177,7 +177,7 @@ Automatically:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -189,13 +189,13 @@ Contributions are welcome.
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Ishaan Bhimajiyani**
 
